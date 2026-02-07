@@ -1,0 +1,13 @@
+---
+title: "Notes on RJMCMC diagnostics"
+date: 2026-01-28
+categories: [Featured, Bayesian 🔮, Mixture Models 🧩]
+description: "Notes on convergence, class switching, and practical diagnostics for RJMCMC in LGMMs."
+---
+
+This is my first post. I’ll use this space for research notes, methods write-ups, and reproducible examples as I work on Bayesian mixture modeling and simulation studies.
+
+## What to expect
+- Short technical notes (RJMCMC, mixture models, SEM)
+- Occasional “how-to” posts (R, HPC/Slurm, Mplus workflows)
+- Updates on working papers and tutorials

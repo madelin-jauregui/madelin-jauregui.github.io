@@ -1,0 +1,29 @@
+{
+  "teaching.qmd": {
+    "teaching.html": "ed0f50b3"
+  },
+  "research.qmd": {
+    "research.html": "f0facd62"
+  },
+  "posts/2026-01-20-dpm/index.qmd": {
+    "index.html": "acf6676d"
+  },
+  "posts/featured/2026-01-28-first-post/index.qmd": {
+    "index.html": "7fa412db"
+  },
+  "code.qmd": {
+    "code.html": "ae5b3676"
+  },
+  "index.qmd": {
+    "index.html": "f43bf09e"
+  },
+  "about.qmd": {
+    "about.html": "8b5d4fae"
+  },
+  "cv.qmd": {
+    "cv.html": "5b5f9915"
+  },
+  "blog.qmd": {
+    "blog.html": "96d8f898"
+  }
+}

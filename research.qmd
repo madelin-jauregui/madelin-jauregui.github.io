@@ -1,0 +1,49 @@
+---
+title: "Research"
+toc: false
+---
+
+## Overview
+Here’s a snapshot of what I’m working on. I’ll keep this page lightweight and update it as projects move forward.
+
+::: {.pastel-grid}
+
+::: {.pastel-card .pastel-sky}
+### <i class="bi bi-arrow-repeat"></i> RJMCMC for LGMMs
+Short description of the paper + what stage it’s in.
+
+<span class="pill">Bayesian</span>
+<span class="pill">Mixture models</span>
+<span class="pill">Longitudinal</span>
+:::
+
+::: {.pastel-card .pastel-lav}
+### <i class="bi bi-box-seam"></i> Bayesian mixture tutorials in R
+Notes + code-first tutorials (Quarto posts) for methods and workflows.
+
+<span class="pill">R</span>
+<span class="pill">Tutorial</span>
+<span class="pill">Reproducible</span>
+:::
+
+::: {.pastel-card .pastel-sage}
+### <i class="bi bi-bar-chart-line"></i> Simulation studies
+Design factors, evaluation metrics, and performance summaries.
+
+<span class="pill">Simulation</span>
+<span class="pill">Model evaluation</span>
+:::
+
+::: {.pastel-card .pastel-sun}
+### <i class="bi bi-mic"></i> Talks & posters
+Links to slides, posters, and conference materials.
+
+<span class="pill">Slides</span>
+<span class="pill">Posters</span>
+:::
+
+:::
+
+
+## Publications
+- Depaoli, S., Qiu, M., Liu, H., & Jauregui, M. (2025). Class Selection in Growth Mixture Models: Comparing Information Criteria to Nonparametric and Parametric Bayesian Approaches. Structural Equation Modeling: A Multidisciplinary Journal, 1-17. <https://doi.org/10.1080/10705511.2025.2563187>

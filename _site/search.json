@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Notes on RJMCMC diagnostics\n\n\n\nFeatured\n\nBayesian 🔮\n\nMixture Models 🧩\n\n\n\nNotes on convergence, class switching, and practical diagnostics for RJMCMC in LGMMs.\n\n\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\nDPM Modeling\n\n\n\nBayesian 🔮\n\nNonparametric\n\nMixture Models 🧩\n\n\n\nConceptual explanation of DPM for longitudinal mixture modeling.\n\n\n\n\n\nJan 20, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "PhD student in Quantitative Psychology at UC Merced. I work on Bayesian mixture models for longitudinal data, simulation studies, and reproducible workflows.\n\n Research  CV  Blog  Code\n\n Interests:\nBayesian mixture models · RJMCMC · LGMM · simulation-based evaluation\n Contact:\nYOUR_EMAIL@ucmerced.edu ·  GitHub"
+  },
+  {
+    "objectID": "index.html#featured-latest-post",
+    "href": "index.html#featured-latest-post",
+    "title": "Home",
+    "section": " Featured / Latest post",
+    "text": "Featured / Latest post\n\n\n\n\n\nNotes on RJMCMC diagnostics\n\n\n\nFeatured\n\nBayesian 🔮\n\nMixture Models 🧩\n\n\n\nNotes on convergence, class switching, and practical diagnostics for RJMCMC in LGMMs.\n\n\n\n\n\nJan 28, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Home",
+    "section": " Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "posts/featured/2026-01-28-first-post/index.html",
+    "href": "posts/featured/2026-01-28-first-post/index.html",
+    "title": "Notes on RJMCMC diagnostics",
+    "section": "",
+    "text": "This is my first post. I’ll use this space for research notes, methods write-ups, and reproducible examples as I work on Bayesian mixture modeling and simulation studies."
+  },
+  {
+    "objectID": "posts/featured/2026-01-28-first-post/index.html#what-to-expect",
+    "href": "posts/featured/2026-01-28-first-post/index.html#what-to-expect",
+    "title": "Notes on RJMCMC diagnostics",
+    "section": "What to expect",
+    "text": "What to expect\n\nShort technical notes (RJMCMC, mixture models, SEM)\nOccasional “how-to” posts (R, HPC/Slurm, Mplus workflows)\nUpdates on working papers and tutorials"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Here’s a snapshot of what I’m working on. I’ll keep this page lightweight and update it as projects move forward.\n\n\n\nShort description of the paper + what stage it’s in.\nBayesian Mixture models Longitudinal\n\n\n\nNotes + code-first tutorials (Quarto posts) for methods and workflows.\nR Tutorial Reproducible\n\n\n\nDesign factors, evaluation metrics, and performance summaries.\nSimulation Model evaluation\n\n\n\nLinks to slides, posters, and conference materials.\nSlides Posters"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "Here’s a snapshot of what I’m working on. I’ll keep this page lightweight and update it as projects move forward.\n\n\n\nShort description of the paper + what stage it’s in.\nBayesian Mixture models Longitudinal\n\n\n\nNotes + code-first tutorials (Quarto posts) for methods and workflows.\nR Tutorial Reproducible\n\n\n\nDesign factors, evaluation metrics, and performance summaries.\nSimulation Model evaluation\n\n\n\nLinks to slides, posters, and conference materials.\nSlides Posters"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nDepaoli, S., Qiu, M., Liu, H., & Jauregui, M. (2025). Class Selection in Growth Mixture Models: Comparing Information Criteria to Nonparametric and Parametric Bayesian Approaches. Structural Equation Modeling: A Multidisciplinary Journal, 1-17. https://doi.org/10.1080/10705511.2025.2563187"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I use Notion as a living hub for syllabi, lecture notes, and assignments.\nTeaching site (Notion)"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nPSY 010 – Analysis of Psychological Data\nPSY 191 – Culminating Experience in Psychology"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "I share reproducible code for simulations, methods notes, and tutorials here."
+  },
+  {
+    "objectID": "code.html#code-reproducibility",
+    "href": "code.html#code-reproducibility",
+    "title": "Code",
+    "section": " Code & reproducibility",
+    "text": "Code & reproducibility\nI keep code for simulations, tutorials, and replication materials organized here.\n\n\n GitHub\n\nProfile: github.com/YOURUSERNAME\nPinned repositories: coming soon\n\n\n\n Reproducible tutorials\n\nQuarto posts that include R output, figures, and narrative\nSmall examples that mirror larger simulation workflows\n\n\n\n Tooling\nR Quarto Git HPC / Slurm Mplus\n\n\n Simulation pipeline\nI’ll add a short write-up of how I structure replications, logs, and results."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A one-page summary is below. For the full CV, download the PDF.\n\n Download CV (PDF)  View on Google Drive"
+  },
+  {
+    "objectID": "cv.html#quick-profile",
+    "href": "cv.html#quick-profile",
+    "title": "Curriculum Vitae",
+    "section": " Quick profile",
+    "text": "Quick profile\n\n\n Position\nPhD student, Quantitative Psychology\nUniversity of California, Merced\n\n\n Research focus\nBayesian mixture models · RJMCMC · LGMM · simulation-based model evaluation\n\n\n Methods & tools\nR · Quarto · Git · HPC/Slurm · Mplus\n\n\n Contact\nYOUR_EMAIL@ucmerced.edu\n github.com/YOURUSERNAME\n\n\n\n Education\n\n\nUniversity of California, Merced\n\nM.A. in Quantitative Psychology\n\n\n2023 – Present\n\n\n\nKU Leuven\n\nM.S. in Psychology\n\n\n2021 – 2023\n\n\n\nUniversidad de La Sabana\n\nB.S. in Psychology\n\n\n2017 – 2021\n\n\n\n\n\n Recent Publications\nIn preparation / under review.\n\n\n\n\n\n\nNote\n\n\n\nA full and up-to-date list of publications is available in the downloadable CV.\n\n\n\n\n Conferences\n\nConference presentations and posters forthcoming.\n\n\n\n Teaching experience\n\nPSY 010 – Analysis of Psychological Data\n\nPSY 191 – Culminating Experience in Psychology"
+  },
+  {
+    "objectID": "cv.html#selected-items",
+    "href": "cv.html#selected-items",
+    "title": "Curriculum Vitae",
+    "section": " Selected items",
+    "text": "Selected items\n\nPublications: (coming soon / add your citations here)\nConference presentations: (add 2–4 key talks/posters)\nTeaching: PSY 010, PSY 191 (add terms if you want)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": " Education",
+    "text": "Education\n\n\nUniversity of California, Merced\n\nM.A. in Quantitative Psychology\n\n\n2023 – Present\n\n\n\nKU Leuven\n\nM.S. in Psychology\n\n\n2021 – 2023\n\n\n\nUniversidad de La Sabana\n\nB.S. in Psychology\n\n\n2017 – 2021"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": " Publications",
+    "text": "Publications\nIn preparation / under review.\n\n\n\n\n\n\nNote\n\n\n\nA full and up-to-date list of publications is available in the downloadable CV."
+  },
+  {
+    "objectID": "cv.html#conferences",
+    "href": "cv.html#conferences",
+    "title": "Curriculum Vitae",
+    "section": " Conferences",
+    "text": "Conferences\n\nConference presentations and posters forthcoming."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": " Teaching experience",
+    "text": "Teaching experience\n\nPSY 010 – Analysis of Psychological Data\n\nPSY 191 – Culminating Experience in Psychology"
+  }
+]

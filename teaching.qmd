@@ -1,0 +1,11 @@
+---
+title: 'Teaching'
+---
+
+I use Notion as a living hub for syllabi, lecture notes, and assignments.
+
+[<i class="bi bi-journal-text"></i> Teaching site (Notion)](https://surf-bar-eca.notion.site/PSY-010-Fall-26-2ef904f915f5805681a7ca1836149150?pvs=74){.btn .btn-outline-success}
+
+## Courses
+- PSY 010 – Analysis of Psychological Data
+- PSY 191 – Culminating Experience in Psychology

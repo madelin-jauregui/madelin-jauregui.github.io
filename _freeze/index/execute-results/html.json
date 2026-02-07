@@ -1,0 +1,12 @@
+{
+  "hash": "ae4fc0fee86017656cc3bdcca151ad65",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Home\"\nformat:\n  html:\n    toc: false\n---\n\n::: {.home-hero}\n\n::: {.home-hero-text}\n# 👋 Hi, I’m Madelin\n\nPhD student in Quantitative Psychology at **UC Merced**. I work on Bayesian mixture models for longitudinal data, simulation studies, and reproducible workflows.\n\n::: {.home-buttons}\n[📊 Research](research.qmd){.btn .btn-research}\n[📄 CV](cv.qmd){.btn .btn-cv}\n[📝 Blog](blog.qmd){.btn .btn-blog}\n[💻 Code](code.qmd){.btn .btn-code}\n:::\n\n**🧠 Interests:** Bayesian mixture models · RJMCMC · LGMM · simulation-based evaluation  \n**✉️ Contact:** YOUR_EMAIL@ucmerced.edu · [🐙 GitHub](https://github.com/YOURUSERNAME)\n:::\n\n::: {.home-hero-photo}\n![](images/headshot.jpg){.profile-pic alt=\"Photo of Madelin\"}\n:::\n\n:::\n\n::: {.pastel-grid}\n\n::: {.pastel-card .pastel-sky}\n### 🧠 Research interests\nBayesian mixture modeling, RJMCMC, LGMM, computational evaluation.\n:::\n\n::: {.pastel-card .pastel-sage}\n### 🧪 Current work\nSimulation studies on class recovery under alternative priors.\n:::\n\n:::\n\n## 🌟 Featured / Latest post\n\n```{listing}\ncontents: posts\nsort: \"date desc\"\nlimit: 1\nfields: [title, date]\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

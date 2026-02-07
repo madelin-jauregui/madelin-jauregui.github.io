@@ -1,0 +1,38 @@
+---
+title: "Code"
+toc: false
+---
+I share reproducible code for simulations, methods notes, and tutorials here.
+
+## <i class="bi bi-code-slash"></i> Code & reproducibility
+I keep code for simulations, tutorials, and replication materials organized here.
+
+::: {.pastel-grid}
+
+::: {.pastel-card .pastel-sun}
+### <i class="bi bi-github"></i> GitHub
+- Profile: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
+- Pinned repositories: coming soon
+:::
+
+::: {.pastel-card .pastel-sage}
+### <i class="bi bi-journal-code"></i> Reproducible tutorials
+- Quarto posts that include R output, figures, and narrative
+- Small examples that mirror larger simulation workflows
+:::
+
+::: {.pastel-card .pastel-lav}
+### <i class="bi bi-tools"></i> Tooling
+<span class="pill">R</span>
+<span class="pill">Quarto</span>
+<span class="pill">Git</span>
+<span class="pill">HPC / Slurm</span>
+<span class="pill">Mplus</span>
+:::
+
+::: {.pastel-card .pastel-sky}
+### <i class="bi bi-diagram-3"></i> Simulation pipeline
+I’ll add a short write-up of how I structure replications, logs, and results.
+:::
+
+:::

@@ -1,0 +1,220 @@
+/* =========================
+   Pastel Home Page Styling
+   ========================= */
+
+/* Soft pastel gradient hero */
+.home-hero {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  gap: 2.2rem;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 1.5rem;
+  background: linear-gradient(
+    135deg,
+    rgba(186, 220, 255, 0.45),
+    rgba(216, 191, 216, 0.45),
+    rgba(198, 234, 222, 0.45)
+  );
+  border: 1px solid rgba(0,0,0,0.06);
+  margin-bottom: 2rem;
+}
+
+/* Text spacing */
+.home-hero-text h1 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.home-hero-text p {
+  font-size: 1.05rem;
+}
+
+/* Button container */
+.home-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.2rem 0 1.2rem 0;
+}
+
+/* Custom pastel buttons */
+.btn {
+  border-radius: 999px;
+  padding: 0.45rem 0.9rem;
+  font-weight: 500;
+  border: none;
+  text-decoration: none;
+}
+
+.btn-research {
+  background-color: #cfe2ff;
+  color: #084298;
+}
+
+.btn-cv {
+  background-color: #e2d9f3;
+  color: #432874;
+}
+
+.btn-blog {
+  background-color: #d1e7dd;
+  color: #0f5132;
+}
+
+.btn-code {
+  background-color: #fff3cd;
+  color: #664d03;
+}
+
+.btn:hover {
+  opacity: 0.85;
+}
+
+/* Profile image */
+.profile-pic {
+  width: 100%;
+  max-width: 260px;
+  border-radius: 999px;
+  border: 6px solid rgba(255,255,255,0.9);
+  box-shadow: 0 14px 32px rgba(0,0,0,0.12);
+}
+
+/* Headings with breathing room */
+h2 {
+  margin-top: 2rem;
+}
+
+/* Mobile friendly */
+@media (max-width: 900px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+
+  .profile-pic {
+    max-width: 220px;
+  }
+}
+/* End of styles.css */
+
+
+/* =========================
+   Pastel Cards + Badges
+   ========================= */
+
+.pastel-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.pastel-card {
+  grid-column: span 6;
+  padding: 1.25rem 1.25rem;
+  border-radius: 1.25rem;
+  border: 1px solid rgba(0,0,0,0.06);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.07);
+  background: rgba(255,255,255,0.65);
+}
+
+.pastel-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.pastel-card p:last-child {
+  margin-bottom: 0;
+}
+
+.pastel-sky { background: rgba(207, 226, 255, 0.65); }
+.pastel-lav { background: rgba(226, 217, 243, 0.65); }
+.pastel-sage { background: rgba(209, 231, 221, 0.65); }
+.pastel-sun { background: rgba(255, 243, 205, 0.65); }
+
+.pill {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: rgba(255,255,255,0.55);
+  margin-right: 0.4rem;
+  margin-top: 0.35rem;
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+  .pastel-card { grid-column: span 12; }
+}
+
+/* Add breathing room after card sections */
+.pastel-grid {
+  margin-bottom: 3rem;
+}
+
+
+/* =========================
+   Featured post styling
+   ========================= */
+
+.listing {
+  padding: 1.25rem 1.5rem;
+  border-radius: 1.25rem;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0,0,0,0.06);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+}
+
+/* =========================
+   Icons
+   ========================= */
+/* Subtle Bootstrap icon styling */
+.bi {
+  margin-right: 0.35rem;
+  color: rgba(0, 0, 0, 0.65);
+  vertical-align: -0.125em;
+}
+
+/* =========================
+   Education CV section
+   ========================= */
+/* CV Education grid */
+.cv-education-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.cv-edu-item {
+  padding: 1rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+.cv-degree {
+  margin-top: 0.25rem;
+  color: rgba(0,0,0,0.75);
+}
+
+.cv-years {
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  color: rgba(0,0,0,0.6);
+}
+
+/* Responsive behavior */
+@media (max-width: 900px) {
+  .cv-education-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .cv-education-grid {
+    grid-template-columns: 1fr;
+  }
+}

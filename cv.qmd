@@ -1,0 +1,91 @@
+---
+title: "Curriculum Vitae"
+toc: false
+page-layout: full
+---
+
+::: {.home-hero}
+
+::: {.home-hero-text}
+
+A one-page summary is below. For the full CV, download the PDF.
+
+::: {.home-buttons}
+[<i class="bi bi-download"></i> Download CV (PDF)](files/madelin.jauregui_CV_2026.pdf){.btn .btn-cv target="_blank"}
+[<i class="bi bi-box-arrow-up-right"></i> View on Google Drive](https://YOUR-DRIVE-LINK-HERE){.btn .btn-outline-primary target="_blank"}
+:::
+
+:::
+
+:::
+
+## <i class="bi bi-person-badge"></i> Quick profile
+
+::: {.pastel-grid}
+
+::: {.pastel-card .pastel-sky}
+### <i class="bi bi-mortarboard"></i> Position
+PhD student, Quantitative Psychology  
+University of California, Merced
+:::
+
+::: {.pastel-card .pastel-sky}
+### <i class="bi bi-lightbulb"></i> Research focus
+Bayesian mixture models · RJMCMC · LGMM · simulation-based model evaluation
+:::
+
+::: {.pastel-card .pastel-sky}
+### <i class="bi bi-tools"></i> Methods & tools
+R · Quarto · Git · HPC/Slurm · Mplus
+:::
+
+::: {.pastel-card .pastel-sky}
+### <i class="bi bi-envelope"></i> Contact
+YOUR_EMAIL@ucmerced.edu  
+[<i class="bi bi-github"></i> github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
+:::
+
+:::
+
+### <i class="bi bi-mortarboard"></i> Education
+
+<div class="cv-education-grid">
+
+<div class="cv-edu-item">
+<strong>University of California, Merced</strong>
+<div class="cv-degree">M.A. in Quantitative Psychology</div>
+<div class="cv-years">2023 – Present</div>
+</div>
+
+<div class="cv-edu-item">
+<strong>KU Leuven</strong>
+<div class="cv-degree">M.S. in Psychology</div>
+<div class="cv-years">2021 – 2023</div>
+</div>
+
+<div class="cv-edu-item">
+<strong>Universidad de La Sabana</strong>
+<div class="cv-degree">B.S. in Psychology</div>
+<div class="cv-years">2017 – 2021</div>
+</div>
+
+</div>
+
+
+### <i class="bi bi-journal-text"></i> Recent Publications
+*In preparation / under review.*
+
+::: {.callout-note}
+A full and up-to-date list of publications is available in the downloadable CV.
+:::
+
+
+### <i class="bi bi-mic"></i> Conferences
+- Conference presentations and posters forthcoming.
+
+
+### <i class="bi bi-person-workspace"></i> Teaching experience
+- **PSY 010** – Analysis of Psychological Data  
+- **PSY 191** – Culminating Experience in Psychology
+
+

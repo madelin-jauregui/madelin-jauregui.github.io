@@ -1,0 +1,27 @@
+---
+title: "Home"
+---
+
+## Hi, I’m Madelin Jauregui
+
+I’m a PhD student in Quantitative Psychology at UC Merced. My work focuses on Bayesian mixture models for longitudinal data, with an emphasis on simulation studies, estimation algorithms (e.g., RJMCMC), and reproducible research workflows.
+
+## Research interests
+- Bayesian mixture modeling and class uncertainty
+- Latent growth and growth mixture models
+- Reversible Jump MCMC and alternative estimation methods
+- Simulation-based evaluation in SEM
+
+## Current projects
+- RJMCMC for latent growth mixture models (LGMMs)
+- Tutorial materials for Bayesian mixture methods in R
+- Simulation studies on class recovery, separation, and small-sample performance
+
+## Contact
+- Email: mjauregui7@ucmerced.edu
+- GitHub: username
+- My lab: [Lab Website](https://sites.ucmerced.edu/sarahdepaoli/people-new)
+
+```{r}
+1 + 1
+```

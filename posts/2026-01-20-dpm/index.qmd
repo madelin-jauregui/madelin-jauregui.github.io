@@ -1,0 +1,7 @@
+---
+title: "DPM Modeling"
+date: 2026-01-20
+categories: [Bayesian 🔮, Nonparametric, Mixture Models 🧩]
+description: "Conceptual explanation of DPM for longitudinal mixture modeling."
+---
+
