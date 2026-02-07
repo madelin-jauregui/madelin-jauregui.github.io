@@ -20,10 +20,10 @@ website:
         text: CV
     right:
       - icon: github
-        href: https://github.com/YOURUSERNAME
+        href: https://github.com/madelin-jauregui
         aria-label: GitHub
       - icon: envelope
-        href: mailto:YOUR_EMAIL@ucmerced.edu
+        href: mailto:mjauregui7@ucmerced.edu
         aria-label: Email
       - icon: journal
         href: https://surf-bar-eca.notion.site/PSY-010-Fall-26-2ef904f915f5805681a7ca1836149150
