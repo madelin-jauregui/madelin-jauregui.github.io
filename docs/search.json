@@ -88,7 +88,7 @@
     "href": "code.html#code-reproducibility",
     "title": "Code",
     "section": " Code & reproducibility",
-    "text": "Code & reproducibility\nI keep code for simulations, tutorials, and replication materials organized here.\n\n\n GitHub\n\nProfile: github.com/YOURUSERNAME\nPinned repositories: coming soon\n\n\n\n Reproducible tutorials\n\nQuarto posts that include R output, figures, and narrative\nSmall examples that mirror larger simulation workflows\n\n\n\n Tooling\nR Quarto Git HPC / Slurm Mplus\n\n\n Simulation pipeline\nI’ll add a short write-up of how I structure replications, logs, and results."
+    "text": "Code & reproducibility\nI keep code for simulations, tutorials, and replication materials organized here.\n\n\n GitHub\n\nProfile: github.com/madelin-jauregui\nPinned repositories: coming soon\n\n\n\n Reproducible tutorials\n\nQuarto posts that include R output, figures, and narrative\nSmall examples that mirror larger simulation workflows\n\n\n\n Tooling\nR Quarto Git HPC / Slurm Mplus\n\n\n Simulation pipeline\nI’ll add a short write-up of how I structure replications, logs, and results."
   },
   {
     "objectID": "cv.html",
