@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "PhD student in Quantitative Psychology at UC Merced. I work on Bayesian mixture models for longitudinal data, simulation studies, and reproducible workflows.\n\n Research  CV  Blog  Code\n\n Interests:\nBayesian mixture models · RJMCMC · LGMM · simulation-based evaluation\n Contact:\nYOUR_EMAIL@ucmerced.edu ·  GitHub"
+    "text": "PhD student in Quantitative Psychology at UC Merced. I work on Bayesian mixture models for longitudinal data, simulation studies, and reproducible workflows.\n\n Research  CV  Blog  Code\n\n Interests:\nBayesian mixture models · RJMCMC · LGMM · simulation-based evaluation\n Contact:\nmjauregui7@ucmerced.edu ·  GitHub"
   },
   {
     "objectID": "index.html#featured-latest-post",
@@ -25,7 +25,7 @@
     "href": "index.html#publications",
     "title": "Home",
     "section": " Publications",
-    "text": "Publications"
+    "text": "Publications\n\nDepaoli, S., Qiu, M., Liu, H., & Jauregui, M. (2025). Class Selection in Growth Mixture Models: Comparing Information Criteria to Nonparametric and Parametric Bayesian Approaches. Structural Equation Modeling: A Multidisciplinary Journal, 1-17. https://doi.org/10.1080/10705511.2025.2563187\nDepaoli, S., Heo, I., Jauregui, M., Liu, H., & Jia, F. (2025). A Comprehensive Evaluation of Model Selection Indices for Class Enumeration in Bayesian Latent Growth Mixture Models. Structural Equation Modeling: A Multidisciplinary Journal. 1-20. https://doi.org/10.1080/10705511.2025.2566135"
   },
   {
     "objectID": "posts/featured/2026-01-28-first-post/index.html",
@@ -60,7 +60,7 @@
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\nDepaoli, S., Qiu, M., Liu, H., & Jauregui, M. (2025). Class Selection in Growth Mixture Models: Comparing Information Criteria to Nonparametric and Parametric Bayesian Approaches. Structural Equation Modeling: A Multidisciplinary Journal, 1-17. https://doi.org/10.1080/10705511.2025.2563187"
+    "text": "Publications\n\nDepaoli, S., Qiu, M., Liu, H., & Jauregui, M. (2025). Class Selection in Growth Mixture Models: Comparing Information Criteria to Nonparametric and Parametric Bayesian Approaches. Structural Equation Modeling: A Multidisciplinary Journal, 1-17. https://doi.org/10.1080/10705511.2025.2563187\nDepaoli, S., Heo, I., Jauregui, M., Liu, H., & Jia, F. (2025). A Comprehensive Evaluation of Model Selection Indices for Class Enumeration in Bayesian Latent Growth Mixture Models. Structural Equation Modeling: A Multidisciplinary Journal. 1-20. https://doi.org/10.1080/10705511.2025.2566135"
   },
   {
     "objectID": "teaching.html",
@@ -102,6 +102,6 @@
     "href": "cv.html#quick-profile",
     "title": "Curriculum Vitae",
     "section": " Quick profile",
-    "text": "Quick profile\n\n\n Position\nPhD student, Quantitative Psychology\nUniversity of California, Merced\n\n\n Research focus\nBayesian mixture models · RJMCMC · LGMM · simulation-based model evaluation\n\n\n Methods & tools\nR · Quarto · Git · HPC/Slurm · Mplus\n\n\n Contact\nYOUR_EMAIL@ucmerced.edu\n github.com/YOURUSERNAME\n\n\n\n Education\n\n\nUniversity of California, Merced\n\nM.A. in Quantitative Psychology\n\n\n2023 – Present\n\n\n\nKU Leuven\n\nM.S. in Psychology\n\n\n2021 – 2023\n\n\n\nUniversidad de La Sabana\n\nB.S. in Psychology\n\n\n2017 – 2021\n\n\n\n\n\n Recent Publications\nIn preparation / under review.\n\n\n\n\n\n\nNote\n\n\n\nA full and up-to-date list of publications is available in the downloadable CV.\n\n\n\n\n Conferences\n\nConference presentations and posters forthcoming.\n\n\n\n Teaching experience\n\nPSY 010 – Analysis of Psychological Data\n\nPSY 191 – Culminating Experience in Psychology"
+    "text": "Quick profile\n\n\n Position\nPhD student, Quantitative Psychology\nUniversity of California, Merced\n\n\n Research focus\nBayesian mixture models · RJMCMC · LGMM · simulation-based model evaluation\n\n\n Methods & tools\nR · Quarto · Git · HPC/Slurm · Mplus\n\n\n Contact\nmjauregui7@ucmerced.edu\n github.com/madelin-jauregui\n\n\n\n Education\n\n\nUniversity of California, Merced\n\nM.A. in Quantitative Psychology\n\n\n2023 – Present\n\n\n\nKU Leuven\n\nM.S. in Psychology\n\n\n2021 – 2023\n\n\n\nUniversidad de La Sabana\n\nB.S. in Psychology\n\n\n2017 – 2021\n\n\n\n\n\n Recent Publications\n\nDepaoli, S., Qiu, M., Liu, H., & Jauregui, M. (2025). Class Selection in Growth Mixture Models: Comparing Information Criteria to Nonparametric and Parametric Bayesian Approaches. Structural Equation Modeling: A Multidisciplinary Journal, 1-17. https://doi.org/10.1080/10705511.2025.2563187\nDepaoli, S., Heo, I., Jauregui, M., Liu, H., & Jia, F. (2025). A Comprehensive Evaluation of Model Selection Indices for Class Enumeration in Bayesian Latent Growth Mixture Models. Structural Equation Modeling: A Multidisciplinary Journal. 1-20. https://doi.org/10.1080/10705511.2025.2566135\n\n\n\n\n\n\n\nNote\n\n\n\nA full and up-to-date list of publications is available in the downloadable CV.\n\n\n\n\n Conferences\n\nJauregui, M., Liu, H., & Depaoli, S. (2025). Exploring a Data-Driven Estimation Approach to Mixture SEM: Reversible Jump Markov Chain Monte Carlo. Meeting of the Structural Equation Modeling Working Group. Chemnitz, Germany.\nJauregui, M., Heo, I., Depaoli, S., & Liu, H. (2024). The Final Class Model Depends on the Index: Exploring Bayesian Model Fit Index Performance in Growth Mixture Modeling. Association for Psychological Science. San Francisco, United States.\nJauregui, M., Dejonckheere, E., Verdonck, S., & Tuerlinckx, F. (2023). Indicators of Careless Responding: Identifying Carelessness in ESM Questionnaires. Belgian Association for Psychological Sciences. Mons, Belgium.\n\n\n\n Teaching experience\n\nPSY 010 – Analysis of Psychological Data\n\nPSY 191 – Culminating Experience in Psychology"
   }
 ]
